@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MullerFerienwohnungen.github.io" resolutions="1x" timestamp="1527621149330">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MullerFerienwohnungen.github.io" resolutions="1x" timestamp="1527948705247">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact-me.css" crc="456555827" ref="contact-me"/>
@@ -19,7 +19,7 @@
     <file name="nomq_cichoriusstra_e-20.css" crc="27637438" ref="cichoriusstraße-20"/>
     <file name="salomonstra_e-18b.css" crc="3891026540" ref="salomonstraße-18b"/>
     <file name="nomq_salomonstra_e-18b.css" crc="3975963798" ref="salomonstraße-18b"/>
-    <file name="krups-kp2000.css" crc="385272379" ref="krups-kp2000"/>
+    <file name="krups-kp2000.css" crc="3929703736" ref="krups-kp2000"/>
     <file name="nomq_krups-kp2000.css" crc="4228213231" ref="krups-kp2000"/>
     <file name="index.css" crc="58576192" ref="index"/>
     <file name="nomq_index.css" crc="4128585400" ref="index"/>
@@ -306,7 +306,7 @@
   <file name="bernhard-göring-straße-85.html" crc="3934946704" seo="true" mt="1527511980472" redirect="true"/>
   <file name="nikolaistraße-28.html" crc="3784143998" seo="true" mt="1527517944663" redirect="true"/>
   <file name="index.html" crc="4144744377" seo="true" mt="1527527763056" redirect="true"/>
-  <file name="krups-kp2000.html" crc="472650673" seo="true" mt="1527621140181" redirect="true"/>
+  <file name="krups-kp2000.html" crc="46878797" seo="true" mt="1527527661997" redirect="true"/>
   <file name="contact-me.html" crc="34142804" seo="true" mt="1527617711559" redirect="true"/>
   <file name="bosch-tassimo-ctpm02.html" crc="3986795266" seo="true" mt="1527621097768" redirect="true"/>
 </manifest>
