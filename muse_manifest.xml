@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MullerFerienwohnungen.github.io" resolutions="1x" timestamp="1545584002699">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MullerFerienwohnungen.github.io" resolutions="1x" timestamp="1545584128964">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="nikolaistra_e-28.css" crc="3940601498" ref="nikolaistraße-28"/>
@@ -307,6 +307,6 @@
   <file name="nikolaistraße-28.html" crc="4003949284" seo="true" mt="1528094515352" redirect="true"/>
   <file name="index.html" crc="4213213233" seo="true" mt="1528094515352" redirect="true"/>
   <file name="krups-kp2000.html" crc="4079861131" seo="true" mt="1528094515352" redirect="true"/>
-  <file name="contact-me.html" crc="3916526011" seo="true" mt="1545583986050" redirect="true"/>
+  <file name="contact-me.html" crc="3887553016" seo="true" mt="1545584107690" redirect="true"/>
   <file name="bosch-tassimo-ctpm02.html" crc="4090063080" seo="true" mt="1528094515352" redirect="true"/>
 </manifest>
